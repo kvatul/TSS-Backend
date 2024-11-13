@@ -1,1 +1,1 @@
-export const DB_NAME="dotenv"
+export const DB_NAME="youtube"
